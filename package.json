@@ -1,7 +1,6 @@
 {
   "name": "blog-personal-react",
   "private": true,
-  "homepage": "https://ocorzo-2021084.github.io/Blog-personal-react/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
